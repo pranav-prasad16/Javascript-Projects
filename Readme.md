@@ -1,5 +1,5 @@
 # Javascript Projects
-1. Color Flipper
+1. Color Flipper Live demo [here](https://color-flipper-1.netlify.app/)
 2. Counter
 3. Menu
 4. Modal
